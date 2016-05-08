@@ -1,0 +1,13 @@
+{
+  "name": "slv/module-testm2",
+  "description": "Test composer module for Magento 2",
+  "type": "magento2-module",
+  "extra": {
+    "map": [
+      [
+        "*",
+        "SLV/Test"
+      ]
+    ]
+  }
+}
